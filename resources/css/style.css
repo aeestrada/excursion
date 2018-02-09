@@ -5,14 +5,14 @@ body {
 
 h1 {
   font-family: Verdana;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
   color: white;
 }
 
 a {
   color: Aquamarine;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 video {
